@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: df51c4e4ddd78a6498ea33d55bfb432d
+timeCreated: 1492096447
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kaitenku character ontwerp 9_0
+    21300002: Kaitenku character ontwerp 9_1
+    21300004: Kaitenku character ontwerp 9_2
+    21300006: Kaitenku character ontwerp 9_3
+    21300008: Kaitenku character ontwerp 9_4
+    21300010: Kaitenku character ontwerp 9_5
+    21300012: Kaitenku character ontwerp 9_6
+    21300014: Kaitenku character ontwerp 9_7
+    21300016: Kaitenku character ontwerp 9_8
+    21300018: Kaitenku character ontwerp 9_9
+    21300020: Kaitenku character ontwerp 9_10
+    21300022: Kaitenku character ontwerp 9_11
+    21300024: Kaitenku character ontwerp 9_12
+    21300026: Kaitenku character ontwerp 9_13
+    21300028: Kaitenku character ontwerp 9_14
+    21300030: Kaitenku character ontwerp 9_15
+    21300032: Kaitenku character ontwerp 9_16
+    21300034: Kaitenku character ontwerp 9_17
+    21300036: Kaitenku character ontwerp 9_18
+    21300038: Kaitenku character ontwerp 9_19
+    21300040: Kaitenku character ontwerp 9_20
+    21300042: Kaitenku character ontwerp 9_21
+    21300044: Kaitenku character ontwerp 9_22
+    21300046: Kaitenku character ontwerp 9_23
+    21300048: Kaitenku character ontwerp 9_24
+    21300050: Kaitenku character ontwerp 9_25
+    21300052: Kaitenku character ontwerp 9_26
+    21300054: Kaitenku character ontwerp 9_27
+    21300056: Kaitenku character ontwerp 9_28
+    21300058: Kaitenku character ontwerp 9_29
+    21300060: Kaitenku character ontwerp 9_30
+    21300062: Kaitenku character ontwerp 9_31
+    21300064: Kaitenku character ontwerp 9_32
+    21300066: Kaitenku character ontwerp 9_33
+    21300068: Kaitenku character ontwerp 9_34
+    21300070: Kaitenku character ontwerp 9_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 875
+        width: 245
+        height: 134
+      alignment: 9
+      pivot: {x: 0.673346, y: 0.36462766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 813
+        width: 211
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 804
+        width: 258
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_10
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 896
+        width: 140
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 805
+        width: 40
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 446
+        width: 253
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 726
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 806
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 774
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 614
+        width: 260
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 760
+        width: 151
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 368
+        width: 84
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 414
+        width: 84
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_23
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 667
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 376
+        width: 266
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_25
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 368
+        width: 114
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_26
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 516
+        width: 39
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 395
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_29
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 199
+        width: 49
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 125
+        width: 313
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_32
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 199
+        width: 237
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 757
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kaitenku character ontwerp 9_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 14
+        width: 229
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
